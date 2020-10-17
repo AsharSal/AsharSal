@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/github/followers/AsharSal?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/AsharSaleem9">
-    <img src="https://img.shields.io/twitter/follow/AsharSal?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/AsharSaleem9?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 
 
 <p align="center">
-  <img width="48%" src="https://user-images.githubusercontent.com/30969762/96347558-ead9c080-10bb-11eb-9345-1746db015117.gif" alt="Eddie teaching code on YouTube" />
+  <img width="48%" src="https://user-images.githubusercontent.com/30969762/96347558-ead9c080-10bb-11eb-9345-1746db015117.gif" alt="Coding for life" />
 </p>
