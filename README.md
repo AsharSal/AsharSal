@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/AsharSal?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/AsharSal?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/AsharSaleem9">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/AsharSal?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 
 
