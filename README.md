@@ -17,7 +17,8 @@
     <img width="8%" height="8%" src="https://user-images.githubusercontent.com/30969762/96347977-f24e9900-10be-11eb-870e-c6413bbc6fc8.jpg" />
   </a>
 
-
+<div>
 <p align="center">
   <img width="48%" src="https://user-images.githubusercontent.com/30969762/96347558-ead9c080-10bb-11eb-9345-1746db015117.gif" alt="Coding for life" />
-</p>
+   <img width="48%" src="https://user-images.githubusercontent.com/30969762/96348179-545bce00-10c0-11eb-876a-17f1285ecb3a.gif" alt="Coding for life1" />
+  </p>
