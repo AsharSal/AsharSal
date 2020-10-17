@@ -13,6 +13,9 @@
   <a href="https://twitter.com/AsharSaleem9">
     <img src="https://img.shields.io/twitter/follow/AsharSaleem9?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+  <a href="https://www.instagram.com/ashar.me/followers/">
+    <img width="8%" height="8%" src="https://user-images.githubusercontent.com/30969762/96347977-f24e9900-10be-11eb-870e-c6413bbc6fc8.jpg" />
+  </a>
 
 
 <p align="center">
