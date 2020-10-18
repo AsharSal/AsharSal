@@ -18,7 +18,14 @@
   </a>
 
 <div>
+  
+<p align="center">
+  <img width="48%" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" alt="Coding for life" />
+   <img width="48%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding for life1" />
+</p>
 <p align="center">
   <img width="48%" src="https://user-images.githubusercontent.com/30969762/96347558-ead9c080-10bb-11eb-9345-1746db015117.gif" alt="Coding for life" />
    <img width="48%" src="https://user-images.githubusercontent.com/30969762/96348179-545bce00-10c0-11eb-876a-17f1285ecb3a.gif" alt="Coding for life1" />
   </p>
+  
+
