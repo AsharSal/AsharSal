@@ -1,9 +1,9 @@
 ![Backend-Development-banner](https://user-images.githubusercontent.com/30969762/96346802-2f169200-10b7-11eb-9a27-c43f4fdab4a2.jpg)
 
-<p align="center">Hi there, My name is Ashar I am a Software Enginner and Backend Developer :wave:</p>
+<p align="center">Hi there, My name is Ashar I am a Full Stack Developer :wave:</p>
 
 
-<p align="center">Passionate to learning and exploring new technologies. Working on different technologies such as NodeJs, Php and Laravel</p>
+<p align="center">Passionate to learning and exploring new technologies. Working on different technologies such as Php/Laravel and Vue js </p>
 </p>
 
 <p align="center">
