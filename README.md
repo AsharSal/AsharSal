@@ -1,5 +1,5 @@
 <p align="center">Hi there  :wave: , My name is Ashar I am a full Stack developer.</p>
-<p align="center">Passionate to learning and exploring new technologies. My Tech stack includes Laravel and JavaScript </p>
+<p align="center">Passionate about learning and exploring new technologies. My Tech stack includes Laravel and JavaScript </p>
 </p>
 
 <br>
