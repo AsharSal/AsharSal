@@ -1,4 +1,6 @@
 <p align="center">Hi there, My name is Ashar I am a full Stack developer :wave:</p>
+<p align="center">Passionate to learning and exploring new technologies. My Tech stack includes Laravel and JavaScript </p>
+</p>
 
 <br>
 
@@ -19,8 +21,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">Passionate to learning and exploring new technologies. Working on different technologies such as Php/Laravel and Vue js </p>
-</p>
 
 <p align="center">
   <a href="https://github.com/AsharSal?tab=followers">
