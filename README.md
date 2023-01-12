@@ -1,6 +1,15 @@
 ![Backend-Development-banner](https://user-images.githubusercontent.com/30969762/96346802-2f169200-10b7-11eb-9a27-c43f4fdab4a2.jpg)
 
 <p align="center">Hi there, My name is Ashar I am a Full Stack Developer :wave:</p>
+<br>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+
+
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center">Passionate to learning and exploring new technologies. Working on different technologies such as Php/Laravel and Vue js </p>
@@ -28,12 +37,8 @@
    <img width="48%" src="https://user-images.githubusercontent.com/30969762/96348179-545bce00-10c0-11eb-876a-17f1285ecb3a.gif" alt="Coding for life1" />
   </p>
   
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
-<ul>
-
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
