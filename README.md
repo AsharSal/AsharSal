@@ -1,10 +1,14 @@
+<p align="center">Hi there, My name is Ashar I am a Full Stack Developer :wave:</p>
+
+<br>
+
 ![Backend-Development-banner](https://user-images.githubusercontent.com/30969762/96346802-2f169200-10b7-11eb-9a27-c43f4fdab4a2.jpg)
 
-<p align="center">Hi there, My name is Ashar I am a Full Stack Developer :wave:</p>
+
 <br>
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-
+<div>
+  <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+</div>
 
 <br>
 
