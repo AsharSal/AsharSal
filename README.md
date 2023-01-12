@@ -20,14 +20,6 @@
 </br>
 
 
-
-
-<p align="center">
-  <a href="https://github.com/AsharSal?tab=followers">
-    <img src="https://img.shields.io/github/followers/AsharSal?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-
 <div>
   
 <p align="center">
