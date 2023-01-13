@@ -2,7 +2,7 @@
 <p align="center">Passionate about learning and exploring new technologies. My Tech stack includes Laravel and JavaScript </p>
 </p>
 
-<p align='center'><a href='https://asharsal.github.io/portfolio/'>Portfolio</a> </p>
+<p align='center'><a target='_blank' href='https://asharsal.github.io/portfolio/'>Portfolio</a> </p>
 
 <br>
 
