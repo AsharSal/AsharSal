@@ -4,6 +4,7 @@
 </p>
 
 <p align='center'><a  href='https://asharsal.github.io/portfolio/' target='_blank' >Portfolio</a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsharSal&label=Profile%20views&color=0e75b6&style=flat" alt="AsharSal" /> </p>
 
 <br>
 
